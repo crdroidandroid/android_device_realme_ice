@@ -29,8 +29,9 @@ DEVICE_PACKAGE_OVERLAYS += \
 
 PRODUCT_PACKAGES += \
     OPlusFrameworksResTarget \
-    OPlusSettingsProviderResTarget \
     OPlusSettingsResTarget \
+    OPlusSettingsProviderResTarget.9SE \
+    OPlusSettingsProviderResTarget.Q3s \
     OPlusSystemUIResTarget
 
 # Soong namespaces
