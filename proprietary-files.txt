@@ -1,5 +1,5 @@
 ## All proprietary files from this list, unless pinned and noted otherwise,
-## are from realme 9 5G SE (RMX3461_13.1.0.151(EX01)).
+## are from realme 9 5G SE (RMX3461_13.1.0.156(EX01)).
 
 # ACDB
 odm/etc/acdbdata/Bluetooth_cal.acdb
@@ -837,6 +837,7 @@ vendor/lib64/libjpege.so
 vendor/lib64/libmctfengine_stub.so
 vendor/lib64/libmfec.so
 vendor/lib64/libmidasserviceintf.so
+vendor/lib64/libmidasserviceintf_aidl.so
 vendor/lib64/libmmcamera_bestats.so
 vendor/lib64/libmmcamera_cac3.so
 vendor/lib64/libmmcamera_faceproc.so
@@ -902,6 +903,10 @@ odm/bin/hw/vendor.oplus.hardware.biometrics.fingerprint@2.1-service
 odm/bin/init.oplus.fingerprints.sh
 odm/etc/init/vendor.oplus.hardware.biometrics.fingerprint@2.1-service.rc
 odm/etc/vintf/manifest/manifest_oplus_fingerprint.xml
+odm/lib64/hw/fingerprint.goodix_G3.default.so
+odm/lib64/anc.hal.so
+odm/lib64/libgf_hal_G3.so
+odm/lib64/libolc_vnd.so
 odm/lib64/hw/fingerprint.silead.default.so
 odm/lib64/libsl_fp_impl.so
 odm/lib64/vendor.oplus.hardware.commondcs-V1-ndk_platform.so
