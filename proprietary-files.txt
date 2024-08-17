@@ -1,5 +1,5 @@
 ## All proprietary files from this list, unless pinned and noted otherwise,
-## are from realme 9 5G SE (RMX3461_13.1.0.156(EX01)).
+## are from realme 9 5G SE (RMX3461_13.1.0.162(EX01)).
 
 # ACDB
 odm/etc/acdbdata/Bluetooth_cal.acdb
