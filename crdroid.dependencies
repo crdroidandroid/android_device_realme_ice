@@ -6,7 +6,7 @@
   },
   {
     "repository": "crdroidandroid/android_kernel_oplus_RMX3461",
-    "target_path": "kernel/oplus/RMX3461",
+    "target_path": "kernel/oplus/RMX3461"
   },
   {
     "repository": "crdroidandroid/proprietary_vendor_realme_ice",
