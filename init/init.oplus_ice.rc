@@ -4,6 +4,10 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
+on boot
+# OTG
+    write /sys/class/oplus_chg/usb/otg_switch 1
+
 on property:ro.boot.prjname=21695
     setprop vendor.usb.product_string "realme 9 Speed Edition"
     setprop bluetooth.device.default_name "realme 9 Speed Edition"
